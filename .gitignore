@@ -1,0 +1,16 @@
+.classpath
+.project
+.settings/org.eclipse.core.resources.prefs
+.settings/org.eclipse.jdt.apt.core.prefs
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.eclipse.m2e.core.prefs
+target/classes/application.properties
+target/classes/data.sql
+target/classes/com/in28minutes/microservices/currencyexchangeservice/CurrencyExchangeServiceApplicationH2.class
+target/classes/com/in28minutes/microservices/currencyexchangeservice/resource/CurrencyExchangeController.class
+target/classes/com/in28minutes/microservices/currencyexchangeservice/resource/ExchangeValue.class
+target/classes/com/in28minutes/microservices/currencyexchangeservice/resource/ExchangeValueRepository.class
+target/classes/com/in28minutes/microservices/currencyexchangeservice/security/SecurityConfiguration.class
+target/classes/com/in28minutes/microservices/currencyexchangeservice/util/environment/EnvironmentConfigurationLogger.class
+target/classes/com/in28minutes/microservices/currencyexchangeservice/util/environment/InstanceInformationService.class
+target/test-classes/com/in28minutes/microservices/currencyexchangeservice/CurrencyExchangeServiceApplicationTests.class
